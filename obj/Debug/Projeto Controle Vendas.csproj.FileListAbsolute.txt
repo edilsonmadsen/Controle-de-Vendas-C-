@@ -1,3 +1,8 @@
+C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmClientes.resources
+C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form1.resources
+C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe.config
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.pdb
@@ -9,12 +14,6 @@ C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Ubiety.Dns.Core.d
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Google.Protobuf.xml
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\MySql.Data.xml
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Renci.SshNet.xml
-C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.AssemblyReference.cache
-C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmClientes.resources
-C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form1.resources
-C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
-C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
-C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
