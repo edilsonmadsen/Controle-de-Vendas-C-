@@ -17,3 +17,4 @@ C:\Users\Madsen\source\repos\Projeto Controle Vendas\bin\Debug\Renci.SshNet.xml
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
 C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
+C:\Users\Madsen\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources

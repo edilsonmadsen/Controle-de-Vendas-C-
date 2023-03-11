@@ -70,12 +70,21 @@
   <ItemGroup>
     <Compile Include="br.com.projeto.connection\ConnectionFactory.cs" />
     <Compile Include="br.com.projeto.dao\ClienteDAO.cs" />
+    <Compile Include="br.com.projeto.dao\FuncionarioDAO.cs" />
     <Compile Include="br.com.projeto.model\Cliente.cs" />
+    <Compile Include="br.com.projeto.model\Funcionario.cs" />
+    <Compile Include="br.com.projeto.model\Helpers.cs" />
     <Compile Include="br.com.projeto.view\FrmClientes.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="br.com.projeto.view\FrmClientes.Designer.cs">
       <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="br.com.projeto.view\Frmfuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="br.com.projeto.view\Frmfuncionarios.Designer.cs">
+      <DependentUpon>Frmfuncionarios.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -87,6 +96,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="br.com.projeto.view\FrmClientes.resx">
       <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="br.com.projeto.view\Frmfuncionarios.resx">
+      <DependentUpon>Frmfuncionarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

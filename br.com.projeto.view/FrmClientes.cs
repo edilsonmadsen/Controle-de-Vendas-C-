@@ -70,7 +70,7 @@ namespace Projeto_Controle_Vendas.br.com.projeto.view
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            new Helpers().LimparTela(this);
         }
 
         private void txttelefone_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
@@ -192,13 +192,12 @@ namespace Projeto_Controle_Vendas.br.com.projeto.view
 
                 DataSet dados = new DataSet();
 
-                //dados.ReadXml(xml);
                 dados.ReadXml(xml);
 
                 txtendereco.Text = dados.Tables[0].Rows[0]["logradouro"].ToString();
-                txtcomp.Text = dados.Tables[0].Rows[0]["complemento"].ToString();
                 txtbairro.Text = dados.Tables[0].Rows[0]["bairro"].ToString();
                 txtcidade.Text = dados.Tables[0].Rows[0]["localidade"].ToString();
+                txtcomp.Text = dados.Tables[0].Rows[0]["complemento"].ToString();
                 cbuf.Text = dados.Tables[0].Rows[0]["uf"].ToString();
             }
             catch (Exception erro)
